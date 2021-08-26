@@ -25,7 +25,7 @@
 
 ## Introducción
 
-Artisan es la interfaz de línea de comandos incluida con Laravel. Artisan existe en la raíz de su aplicación como el `artisan` y proporciona una serie de comandos útiles que pueden ayudarlo mientras construye su aplicación. Para ver una lista de todos los comandos Artisan disponibles, puede usar el comando `list`
+Esto es una prueba. Artisan es la interfaz de línea de comandos incluida con Laravel. Artisan existe en la raíz de su aplicación como el `artisan` y proporciona una serie de comandos útiles que pueden ayudarlo mientras construye su aplicación. Para ver una lista de todos los comandos Artisan disponibles, puede usar el comando `list`
 
 ```
 php artisan list
